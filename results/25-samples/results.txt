@@ -1,0 +1,8 @@
+results for the distributed scenario with 64 antennas:
+[1mPerformance P: Mean error on Test area: 110.9415[0mmm
+Mean error direction: [238713.90520575  68859.36218262]
+
+results for the URA scenario with 64 antennas:
+[1mPerformance P: Mean error on Test area: 83.6238[0mmm
+Mean error direction: [-1987.60275269 63967.37341309]
+
